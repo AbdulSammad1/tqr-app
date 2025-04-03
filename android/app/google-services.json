@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "508464754651",
+    "project_id": "tqrnotifications",
+    "storage_bucket": "tqrnotifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508464754651:android:d7e2a00ee94393580f01fe",
+        "android_client_info": {
+          "package_name": "com.sazent.tqrfamily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508464754651-71fjj3erpve4id4nce4km9hc9jjvs82p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPbznGTRIf5gAS5F5bFrahaIpHgtvZ4jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508464754651-71fjj3erpve4id4nce4km9hc9jjvs82p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
